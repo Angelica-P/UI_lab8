@@ -1,0 +1,38 @@
+Tutorials:
+
+- How to read JSON files: https://medium.com/officialrajdeepsingh/how-to-read-local-json-file-in-react-js-564125235fc7
+- How to embedded video with Bootstrap: https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_responsive_embed&stacked=h
+- example pieces on the components from this site: https://react-bootstrap.github.io/components/alerts
+- How to import images in react: https://medium.com/better-programming/how-to-display-images-in-react-dfe22a66d5e7
+- Dynamically loading images https://stackoverflow.com/questions/53775936/import-image-dynamically-in-react-component
+
+Videos:
+
+- Monarch Butterflies | National Geographic https://www.youtube.com/watch?v=Rko78QktS9A
+- Polar Bears 101 | Nat Geo Wild https://www.youtube.com/watch?v=1zRGzlWqce4
+- How Poison Ivy Works https://www.youtube.com/watch?v=dgwQ1DHepOw
+- Where do Apples come from? https://www.youtube.com/watch?v=8iEwRF_dLo0
+- Major Challenges for Northern Leopard Frogs https://www.youtube.com/watch?v=N1f2ma3ijfE
+- Moose are one of the last species you'd expect to be swimming for their supper | Wild Canadian Year https://www.youtube.com/watch?v=59_wBH2hSBQ
+
+Articles:
+All articles are taken from Wikipedia
+
+Images:
+- waling_in_the_forest.jpg https://kortright.org/app/uploads/2019/09/KORTRIGHT_FAMILY_ADVENTURE_WALK_1.jpg
+- st_lawrence.jpg https://www.nysenate.gov/newsroom/press-releases/patty-ritchie/community-spotlight-reel-good-time-st-lawrence-river
+- pond.jpg https://www.saranaclake.com/f/styles/nodelistingimages/public/blog/select-seven-family-hikes-under-four-hours/select-seven-family-hikes-under-four-hours_0.jpg?itok=nT858I0Z
+- birds_birds_birds.jpg https://nas-national-prod.s3.amazonaws.com/styles/hero_image/s3/web_groombaltimoreoriole-and-a-male-red-breasted-grosbeak.jpg?itok=mGKiNpgF
+- the_grass_under_your_feet.jpg https://pheasantbranch.org/wp-content/uploads/2019/02/prairie_mosaic.jpg
+- fish_of_the_st_lawrence.jpg https://i.pinimg.com/originals/bf/7e/3a/bf7e3aba747be4439fb2d3e1b507b847.jpg
+
+- leopard_frog.jpg https://www.kidsforturtles.com/articles/northern-leopard-frog/
+- white_tailed_deer.jpg https://www.hww.ca/kaboom/images/Mammals/White-tailed-Deer/White-tailed-Deer_Bill-Maynard.jpg
+- snowy_owl.jpg https://live.staticflickr.com/3756/11806604304_ea802aea2b_b.jpg
+- pine_tree.jpg https://www.thespruce.com/thmb/umMrI3d5THE0QGNxmnHLoq3kyJE=/4400x3300/smart/filters:no_upscale()/eastern-white-pine-bar-harbor-big-56a5877a5f9b58b7d0dd4505.jpg
+- sunflower.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sunforest-mix-sunflower-types-1586794598.jpg
+- cardinal.jpg https://cache.desktopnexus.com/thumbseg/2099/2099609-bigthumbnail.jpg
+- red_wing_blackbird.jpg https://cff2.earth.com/uploads/2019/07/18131445/Red-wing-blackbirds-are-sneak-attacking-Denver-residents--730x410.jpg
+- bluejay https://images.squarespace-cdn.com/content/v1/5931efddf5e231e0a12c037e/1548779829870-C9PTO7SL43GWPUORS7M0/ke17ZwdGBToddI8pDm48kGmtrlUXbeppjVIvYYLTVa9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIXnCWO7-2e-hj8qaEaNVc8BdlhBMKPWzUXQ5XukJUkuEKMshLAGzx4R3EDFOm1kBS/Bird-BlueJay-Branch-W.jpg
+- baltimore_oriole.jpg https://www.nrcm.org/wp-content/uploads/2019/09/Baltimore-Oriole-Pam-Wells.jpg
+- northern_pike.jpg https://animals.net/wp-content/uploads/2020/01/Pike-3-650x425.jpg

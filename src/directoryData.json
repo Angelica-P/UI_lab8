@@ -1,0 +1,105 @@
+[
+		{
+			"name": "leopard frog",
+			"id":"leopard-frog",
+			"type": "animal",
+			"subtype": "amphibian",
+			"colour": "green",
+			"size": "small",
+			"image": "leopard_frog.jpg",
+			"article": "The northern leopard frog is a fairly large species of frog, reaching about 11 cm (4.3 in) in snout-to-vent length. It varies from green to brown in dorsal color, with large, dark, circular spots on its back, sides, and legs. Each spot is normally bordered by a lighter ring. A pair of dorsolateral folds starting from the back of the eye runs parallel to each other down the back. These dorsolateral folds are often lighter or occasionally pinkish in colour. Also, a pale stripe runs from the nostril, under the eye and tympanum, terminating at the shoulder. The ventral surface is white or pale green. The iris is golden and toes are webbed. Tadpoles are dark brown or grey, with light blotches on the underside. The tail is pale tan."
+		},
+		{
+			"name": "white-tailed deer",
+			"id":"deer",
+			"type": "animal",
+			"subtype": "mammal",
+			"colour": "brown",
+			"size": "large",
+			"image": "white_tailed_deer.jpg",
+			"article": "The conversion of land adjacent to the Canadian Rockies into agriculture use and partial clear-cutting of coniferous trees (resulting in widespread deciduous vegetation) has been favorable to the white-tailed deer and has pushed its distribution to as far north as Yukon. Populations of deer around the Great Lakes have also expanded their range northwards, due to conversion of land to agricultural uses favoring more deciduous vegetation, and local caribou and moose populations. The westernmost population of the species, known as the Columbian white-tailed deer, once was widespread in the mixed forests along the Willamette and Cowlitz River valleys of western Oregon and southwestern Washington, but today its numbers have been considerably reduced, and it is classified as near-threatened. This population is separated from other white-tailed deer populations."
+		},
+		{
+			"name": "snowy owl",
+			"id":"snowy-owl",
+			"type": "animal",
+			"subtype": "bird",
+			"colour": "white",
+			"size": "medium",
+			"image": "snowy_owl.jpg",
+			"article": "The snowy owl (Bubo scandiacus) is a large, white owl of the true owl family. It is sometimes also referred to, more infrequently, as the polar owl, white owl and the Arctic owl. Snowy owls are native to the Arctic regions of both North America and the Palearctic, breeding mostly on the tundra. It has a number of unique adaptations to its habitat and lifestyle, which are quite distinct from other extant owls. One of the largest species of owl, it is the only owl with largely white plumage. Males tend to be a purer white overall while females tend to more have more extensive flecks of dark brown. Juvenile male snowy owls have dark markings that may appear similar to females until maturity, at which point they typically turn whiter. The composition of brown markings about the wing, although not foolproof, is the most reliable technique to age and sex individual snowy owls. Most owls sleep during the day and hunt at night, but the snowy owl is often active during the day, especially in the summertime. The snowy owl is both a specialized and generalist hunter. Its breeding efforts and entirely global population are closely tied to the availability of tundra-dwelling lemmings but in the non-breeding season and occasionally during breeding the snowy owl can adapt to almost any available prey, most often other small mammals and northerly water birds (as well as, opportunistically, carrion)."
+		},
+		{
+			"name": "pine tree",
+			"id":"pine-tree",
+			"type": "plant",
+			"leaves": "needles",
+			"num_flowers": "0",
+			"colour_flowers": "none",
+			"size_flowers": "none",
+			"image": "pine_tree.jpg",
+			"article": "Pine trees are evergreen, coniferous resinous trees (or, rarely, shrubs) growing 3–80 m (10–260 ft) tall, with the majority of species reaching 15–45 m (50–150 ft) tall. The smallest are Siberian dwarf pine and Potosi pinyon, and the tallest is an 81.79 m (268.35 ft) tall ponderosa pine located in southern Oregon's Rogue River-Siskiyou National Forest. \nPines are long lived and typically reach ages of 100–1,000 years, some even more. The longest-lived is the Great Basin bristlecone pine, Pinus longaeva. One individual of this species, dubbed 'Methuselah', is one of the world's oldest living organisms at around 4,600 years old. This tree can be found in the White Mountains of California. An older tree, now cut down, was dated at 4,900 years old. It was discovered in a grove beneath Wheeler Peak and it is now known as 'Prometheus' after the Greek immortal.\nThe spiral growth of branches, needles, and cone scales may be arranged in Fibonacci number ratios. The new spring shoots are sometimes called 'candles'; they are covered in brown or whitish bud scales and point upward at first, then later turn green and spread outward. These 'candles' offer foresters a means to evaluate fertility of the soil and vigour of the trees."
+		},
+		{
+			"name": "sunflower",
+			"id":"sunflower",
+			"type": "plant",
+			"leaves": "deciduous",
+			"num_flowers": "1-5",
+			"colour_flowers": "yellow",
+			"size_flowers": "large",
+			"image": "sunflower.jpg",
+			"article": "Sunflowers are usually tall annual or perennial plants that in some species can grow to a height of 300 cm (120 in) or more. They bear one or more wide, terminal capitula (flower heads), with bright yellow ray florets at the outside and yellow or maroon (also known as a brown/red) disc florets inside. Several ornamental cultivars of H. annuus have red-colored ray florets; all of them stem from a single original mutant. During growth, sunflowers tilt during the day to face the sun but stop once they begin blooming. This tracking of the sun in young sunflower heads is called heliotropism. By the time they are mature, sunflowers generally face east. The movement of sunflowers through heliotropism happens as the sunflower follows the sun, the opposite side of the sunflower stem begins to accumulate growth hormones and this causes growth which redirects the sunflower. The rough and hairy stem is branched in the upper part in wild plants but is usually unbranched in domesticated cultivars."
+		},
+		{
+			"name": "red-winged blackbird",
+			"id":"red-winged-blackbird",
+			"type": "animal",
+			"subtype": "bird",
+			"colour": "black",
+			"size": "small",
+			"image": "red_winged_blackbird.jpg",
+			"article": "The red-winged blackbird (Agelaius phoeniceus) is a passerine bird of the family Icteridae found in most of North America and much of Central America. It breeds from Alaska and Newfoundland south to Florida, the Gulf of Mexico, Mexico, and Guatemala, with isolated populations in western El Salvador, northwestern Honduras, and northwestern Costa Rica. It may winter as far north as Pennsylvania and British Columbia, but northern populations are generally migratory, moving south to Mexico and the southern United States. Claims have been made that it is the most abundant living land bird in North America, as bird-counting censuses of wintering red-winged blackbirds sometimes show that loose flocks can number in excess of a million birds per flock and the full number of breeding pairs across North and Central America may exceed 250 million in peak years. It also ranks among the best-studied wild bird species in the world. The red-winged blackbird is sexually dimorphic; the male is all black with a red shoulder and yellow wing bar, while the female is a nondescript dark brown. Seeds and insects make up the bulk of the red-winged blackbird's diet."
+		},
+		{
+			"name": "bluejay",
+			"id":"bluejay",
+			"type": "animal",
+			"subtype": "bird",
+			"colour": "blue",
+			"size": "small",
+			"image": "bluejay.jpg",
+			"article": "The blue jay (Cyanocitta cristata) is a passerine bird in the family Corvidae, native to eastern North America. It resides through most of eastern and central United States, although western populations may be migratory. Resident populations are also found in Newfoundland, Canada, while breeding populations can be found across southern Canada. It breeds in both deciduous and coniferous forests, and is common in residential areas. It is predominantly blue with a white chest and underparts, and a blue crest; it has a black, U-shaped collar around its neck and a black border behind the crest. Males and females are similar in size and plumage, and plumage does not vary throughout the year. Four subspecies of the blue jay have been recognized. The blue jay mainly feeds on nuts and seeds such as acorns, soft fruits, arthropods, and occasionally small vertebrates. It typically gleans food from trees, shrubs, and the ground, though it sometimes hawks insects from the air."
+		},
+		{
+			"name": "cardinal",
+			"id":"cardinal",
+			"type": "animal",
+			"subtype": "bird",
+			"colour": "red",
+			"size": "small",
+			"image": "cardinal.jpg",
+			"article": "The northern cardinal (Cardinalis cardinalis) is a bird in the genus Cardinalis; it is also known colloquially as the redbird, common cardinal or just cardinal (which was its name prior to 1985). It can be found in southeastern Canada, through the eastern United States from Maine to Minnesota to Texas, and south through Mexico, Belize, and Guatemala. It is also an introduced species in a few locations such as Bermuda and Hawaii. Its habitat includes woodlands, gardens, shrublands, and wetlands. The northern cardinal is a mid-sized songbird with a body length of 21–23 cm (8.3–9.1 in). It has a distinctive crest on the head and a mask on the face which is black in the male and gray in the female. The male is a vibrant red, while the female is a reddish olive color. The northern cardinal is mainly granivorous, but also feeds on insects and fruit."
+		},
+		{
+			"name": "baltimore oriole",
+			"id":"baltimore-oriole",
+			"type": "animal",
+			"subtype": "bird",
+			"colour": "orange",
+			"size": "small",
+			"image": "baltimore_oriole.jpg",
+			"article": "The Baltimore oriole (Icterus galbula) is a small icterid blackbird common in eastern North America as a migratory breeding bird. It received its name from the resemblance of the male's colors to those on the coat-of-arms of Lord Baltimore. Observations of interbreeding between the Baltimore oriole and the western Bullock's oriole, Icterus bullockii, led to both being classified as a single species, called the northern oriole, from 1973 to 1995. Research by James Rising, a professor of zoology at the University of Toronto, and others showed that the two birds actually did not interbreed significantly."
+		},
+		{
+			"name": "northern pike",
+			"id":"northern-pike",
+			"type": "animal",
+			"subtype": "fish",
+			"colour": "green",
+			"size": "medium",
+			"image": "northern_pike.jpg",
+			"article": "Pike are found in sluggish streams and shallow, weedy places in lakes and reservoirs, as well as in cold, clear, rocky waters. They are typical ambush predators; they lie in wait for prey, holding perfectly still for long periods, and then exhibit remarkable acceleration as they strike. They inhabit any water body that contains fish, but suitable places for spawning are also essential. Because of their cannibalistic nature, young pike need places where they can take shelter between plants so they are not eaten. In both cases, rich submerged vegetation is needed. Pike are seldom found in brackish water, except for the Baltic Sea area, here they can be found spending time both in the mouths of rivers and in the open brackish waters of the Baltic Sea. It is normal for pike to return to fresh water after a period in these brackish waters. They seem to prefer water with less turbidity, but that is likely related to their dependence on the presence of vegetation."
+		}
+
+]
