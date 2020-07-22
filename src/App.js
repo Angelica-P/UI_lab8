@@ -28,7 +28,10 @@ class App extends Component {
           <Route path='/:entry' component={ Entry }/>
           <Route path='/quizzes/:quiz' component={ Quiz }/>
           <footer>
-            <p className="text-center">Designed by Angelica Paynter</p>
+            <p className="text-center">Designed by Angelica Paynter<br/>
+            <a className="text-center" href="https://icons8.com/icon/10751/filter">Filter icon by Icons8</a><br/>
+            <a className="text-center" href="https://icons8.com/icon/85039/language">Language icon by Icons8</a><br/>
+            <a className="text-center" href="https://icons8.com/icon/84039/search">Search icon by Icons8</a></p>
           </footer>
         </div>
       </BrowserRouter>

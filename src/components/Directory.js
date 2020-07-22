@@ -55,7 +55,7 @@ class Directory extends Component {
 				<Form.Group>
 					<Form.Label forHtml="name">Search for an organism's name:</Form.Label>
 					<Form.Control type='text' placeholder="Search" className="mr-sm-2" id="name"/>
-					<Button className="btn-success" onClick={ () => {this.handleNameSearch(document.getElementById("name").value)} }>Search</Button>
+					<Button className="btn-success button" onClick={ () => {this.handleNameSearch(document.getElementById("name").value)} }>Search  <img src="https://img.icons8.com/material-sharp/24/000000/search.png"/></Button>
 				</Form.Group>
 
 				<h4>OR</h4>
@@ -107,9 +107,9 @@ class Directory extends Component {
 										<option value="deciduous">Deciduous</option>
 									</Form.Control>
 
-									<Button  className="btn-success" onClick={ () => {this.handlePlantSearch(document.getElementById("num_flowers").value,
+									<Button  className="btn-success button" onClick={ () => {this.handlePlantSearch(document.getElementById("num_flowers").value,
 									 document.getElementById("colour_flowers").value, document.getElementById("size_flowers").value,
-									  document.getElementById("leaves").value)} }>Apply Filters</Button>
+									  document.getElementById("leaves").value)} }>Apply Filters  <img src="https://img.icons8.com/android/24/000000/filter.png"/></Button>
 								</Form.Group>
 							</Card.Body>
 						</Accordion.Collapse>
@@ -152,8 +152,8 @@ class Directory extends Component {
 										<option value="large">Large</option>
 									</Form.Control>
 
-									<Button  className="btn-success" onClick={ () => {this.handleAnimalSearch(document.getElementById("type_animal").value,
-									 document.getElementById("colour_animal").value, document.getElementById("size_animal").value)} }>Apply Filters</Button>
+									<Button  className="btn-success button" onClick={ () => {this.handleAnimalSearch(document.getElementById("type_animal").value,
+									 document.getElementById("colour_animal").value, document.getElementById("size_animal").value)} }>Apply Filters  <img src="https://img.icons8.com/android/24/000000/filter.png"/></Button>
 								</Form.Group>
 							</Card.Body>
 						</Accordion.Collapse>

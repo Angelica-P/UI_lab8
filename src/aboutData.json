@@ -1,0 +1,36 @@
+[
+	{
+		"language": "English",
+		"title": "About",
+		"dropdown_title": "Language",
+		"para1": "This site is dedicated to helping people identify plants and animals found in the province of Ontario, Canada. It's primary feature is the directory that can be searched to identify a plant or animal found in Ontario. There are also new videos every week with that week's featured organism. The site also offers quizes for everyone to test their knowledge about Ontario's floura and fawna.",
+		"FAQ_title": "FAQ",
+		"q1_title": "How do I search the directory?",
+		"q1_text": "There are three ways to search the directory. The first is to simply enter the name or part of the name of the organism you are looking for and click Search. If you don't know the name, don't worry, there is a second option. Select either plant or animal and select the characteristics of the organism, like colour or size, and click Apply Filters.",
+		"q2_title": "How often are new videos and quizzes uploaded?",
+		"q2_text": "New videos are uploaded every week. You can still view the previous five featured videos as well. They are available right underneath the featured video. New quizzes are uploaded at the same time as the new video, so once a week.",
+		"q3_title": "How is the size option for filtering decided?",
+		"q3_text": "For animals the size (Small, Medium, Large) is relative to other animals in that 'type'. So birds are compared to other birds, fish are compared to other fish, etc. So a Snowy Owl is about medium size compared to other birds, a songbird would be small, and a Great Grey Owl would be considered large. For plants, only the size of a flower is considered. Clover flowers are small while sunflowers would be large.",
+		"q4_title": "The organism I'm looking for has multiple colours. How do I choose one?",
+		"q4_text": "Try to choose the colour that is most visible or covers the majority of the organism. For example, a Baltimore Oriole is considered orange, a red-winged blackbird is black and a sunflower is yellow.",
+		"q5_title": "I can't find the organism I'm looking for in the directory.",
+		"q5_text": "If you are using filtering, you may need to play with your selections a bit to find the organism you are looking for. In particular, check the colour and size. If you are searching for the name, check your spelling or try a more general name for the organism."
+	},
+	{
+		"language": "Norsk",
+		"title": "Om",
+		"dropdown_title": "Språk",
+		"para1": "Dette nettstedet er dedikert til å hjelpe mennesker med å identifisere planter og dyr som finnes i provinsen Ontario, Canada. Den viktigste funksjonen er katalogen som kan søkes for å identifisere en plante eller dyr som finnes i Ontario. Det er også nye videoer hver uke med den ukens kjente organisme. Nettstedet tilbyr også spørsmål for alle for å teste kunnskapen sin om Ontario's mela og fawna.",
+		"FAQ_title": "Ofte Stilte Spørsmål",
+		"q1_title": "Hvordan søker jeg i katalogen?",
+		"q1_text": "Det er tre måter å søke i katalogen på. Den første er å ganske enkelt oppgi navnet eller delen av navnet på organismen du leter etter og klikke på Søk. Hvis du ikke vet navnet, ikke bekymre deg, det er et annet alternativ. Velg enten plante eller dyr, og velg egenskapene til organismen, som farge eller størrelse, og klikk Bruk filter.",
+		"q2_title": "Hvor ofte blir nye videoer og quizer lastet opp?",
+		"q2_text": "Nye videoer lastes opp hver uke. Du kan fortsatt se de fem foregående funksjonene også. De er tilgjengelige rett under den kjente videoen. Nye quizer blir lastet opp samtidig med den nye videoen, så en gang i uken.",
+		"q3_title": "Hvordan avgjøres størrelsesalternativet for filtrering?",
+		"q3_text": "For dyr er størrelsen (liten, middels, stor) i forhold til andre dyr i den typen. Så fugler blir sammenlignet med andre fugler, fisk sammenlignes med andre fisk, etc. En Snowy Owl er omtrent middels størrelse sammenlignet med andre fugler, en sangfugl ville være liten, og en Great Grey Owl ville bli ansett som stor. For planter vurderes bare størrelsen på en blomst. Kløverblomster er små, mens solsikker ville være store.",
+		"q4_title": "Organismen jeg leter etter har flere farger. Hvordan velger jeg en?",
+		"q4_text": "Forsøk å velge den fargen som er mest synlig eller dekker størstedelen av organismen. For eksempel regnes en Baltimore Oriole som oransje, en rødvinget svartfugl er svart og en solsikke er gul.",
+		"q5_title": "Jeg finner ikke organismen jeg leter etter i katalogen.",
+		"q5_text": "Hvis du bruker filtrering, kan det hende du må leke med valgene dine litt for å finne organismen du leter etter. Sjekk spesielt farge og størrelse. Hvis du søker etter navnet, kan du sjekke stavemåten eller prøve et mer generelt navn på organismen."
+	}
+]

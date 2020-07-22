@@ -36,3 +36,17 @@ Images:
 - bluejay https://images.squarespace-cdn.com/content/v1/5931efddf5e231e0a12c037e/1548779829870-C9PTO7SL43GWPUORS7M0/ke17ZwdGBToddI8pDm48kGmtrlUXbeppjVIvYYLTVa9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIXnCWO7-2e-hj8qaEaNVc8BdlhBMKPWzUXQ5XukJUkuEKMshLAGzx4R3EDFOm1kBS/Bird-BlueJay-Branch-W.jpg
 - baltimore_oriole.jpg https://www.nrcm.org/wp-content/uploads/2019/09/Baltimore-Oriole-Pam-Wells.jpg
 - northern_pike.jpg https://animals.net/wp-content/uploads/2020/01/Pike-3-650x425.jpg
+- redfish.jpg https://www.oceana.ca/sites/default/files/styles/ntsc/public/acadian_redfish_school.jpg?itok=T1Tu7Qn-
+- muskie.jpg https://files.osgnetworks.tv/15/files/2017/06/INFS-170026-REA-01.jpg
+- smallmouth_bass.jpg https://www.fieldandstream.com/resizer/QeOts7h_VnqMujVbFcgfBEzgSBI=/760x558/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/GCZXKMBEH4C4K2HDMOEXPLJV7M.jpg
+- walleye.jpg https://media.istockphoto.com/photos/walleye-fish-underwater-in-the-stlawrence-river-picture-id1041074796?k=6&m=1041074796&s=170667a&w=0&h=Eux943CUDnI7yM3_pIuwgx_4eTmxibVRuu3jJ80cM2Y=
+- monarch_butterfly.jpg https://www.biologicaldiversity.org/assets/img/species/invertebrates/MonarchButterfly_Flickr_DebbieLong_FPWC.jpg
+- poison_ivy.jpg https://wexnermedical.osu.edu/-/media/images/wexnermedical/blog/2019-stories/09/poison-ivy/poisonivy_large.jpg?la=en&hash=72270516DF32BA32CFA80CAEAFD7CEBC05CDC0A7
+- polar_bear.jpg https://specials-images.forbesimg.com/imageserve/667592617/960x0.jpg?fit=scale
+- moose.jpg https://media.healthday.com/Images/icimages/moose318.jpg
+- apple_tree.jpg https://media.pri.org/s3fs-public/styles/story_main/public/images/2019/12/apple-mothertree.jpg?itok=EMn_iOBk
+- clover https://www.almanac.com/sites/default/files/styles/primary_image_in_article/public/image_nodes/clover-plant_-_white-clover.jpg?itok=2CgQi8vm
+- american_beach_grass.jpg https://www.gardeningknowhow.com/wp-content/uploads/2013/09/beachgrass.jpg
+- big_bluestem.jpg https://www.ernstseed.com/wp-content/uploads/2020/07/big-bluestem-niagara-4.jpg
+- canada_wild_rye.jpg https://i.ebayimg.com/images/g/8W0AAOSwo4pYljGX/s-l300.jpg
+- timothy.jpg https://www.uwyo.edu/plantsciences/uwplant/forages/images/timothy2.jpg

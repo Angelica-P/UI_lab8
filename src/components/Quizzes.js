@@ -35,8 +35,8 @@ const Quizzes = () => {
 					<Card>
 						<Card.Img variant="top" src={fish} />
 						<Card.Body>
-							<Card.Title>Fishes of the St. Lawerance</Card.Title>
-							<Button className="btn-success" href="/quizzes/1">Start</Button>
+							<Card.Title>The Fish of the St. Lawerance</Card.Title>
+							<Button className="btn-success" href="/quizzes/3">Start</Button>
 						</Card.Body>
 					</Card>
 				</Col>

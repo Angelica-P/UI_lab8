@@ -72,6 +72,17 @@
 			"article": "The blue jay (Cyanocitta cristata) is a passerine bird in the family Corvidae, native to eastern North America. It resides through most of eastern and central United States, although western populations may be migratory. Resident populations are also found in Newfoundland, Canada, while breeding populations can be found across southern Canada. It breeds in both deciduous and coniferous forests, and is common in residential areas. It is predominantly blue with a white chest and underparts, and a blue crest; it has a black, U-shaped collar around its neck and a black border behind the crest. Males and females are similar in size and plumage, and plumage does not vary throughout the year. Four subspecies of the blue jay have been recognized. The blue jay mainly feeds on nuts and seeds such as acorns, soft fruits, arthropods, and occasionally small vertebrates. It typically gleans food from trees, shrubs, and the ground, though it sometimes hawks insects from the air."
 		},
 		{
+			"name": "american beach grass",
+			"id":"american-beach-grass",
+			"type": "plant",
+			"leaves": "deciduous",
+			"num_flowers": "0",
+			"colour_flowers": "none",
+			"size_flowers": "none",
+			"image": "american_beach_grass.jpg",
+			"article": "Ammophila breviligulata (American beachgrass or American marram grass) is a species of grass native to eastern North America, where it grows on sand dunes along the Atlantic Ocean and Great Lakes coasts. Beachgrass thrives under conditions of shifting sand, sand burial, and high winds; it is a dune-building grass that builds the first line of sand dunes along the coast. Beachgrass is less vigorous in stabilized sand, and is only infrequently found further inland than the coastal foredunes. On the Atlantic coastline of North America, Ammophila breviligulata has been observed as far south as North Carolina, and is often planted in dune restoration projects. Ammophila breviligulata was introduced to the Pacific coast of North America in the 1930s. It is proving to be invasive, and is increasingly important to coastal ecology and development in Oregon, Washington, and British Columbia."
+		},
+		{
 			"name": "cardinal",
 			"id":"cardinal",
 			"type": "animal",
@@ -80,6 +91,17 @@
 			"size": "small",
 			"image": "cardinal.jpg",
 			"article": "The northern cardinal (Cardinalis cardinalis) is a bird in the genus Cardinalis; it is also known colloquially as the redbird, common cardinal or just cardinal (which was its name prior to 1985). It can be found in southeastern Canada, through the eastern United States from Maine to Minnesota to Texas, and south through Mexico, Belize, and Guatemala. It is also an introduced species in a few locations such as Bermuda and Hawaii. Its habitat includes woodlands, gardens, shrublands, and wetlands. The northern cardinal is a mid-sized songbird with a body length of 21–23 cm (8.3–9.1 in). It has a distinctive crest on the head and a mask on the face which is black in the male and gray in the female. The male is a vibrant red, while the female is a reddish olive color. The northern cardinal is mainly granivorous, but also feeds on insects and fruit."
+		},
+		{
+			"name": "big bluestem",
+			"id":"big-bluestem",
+			"type": "plant",
+			"leaves": "deciduous",
+			"num_flowers": "0",
+			"colour_flowers": "none",
+			"size_flowers": "none",
+			"image": "big_bluestem.jpg",
+			"article": "Big bluestem is a perennial warm-season bunchgrass. It is tolerant of a wide range of soil conditions. The main roots are 6–10 ft (1.8–3.0 m) deep, and the plants send out strong, tough rhizomes, so it forms very strong sod. Depending on soil and moisture conditions, it grows to a height of 1–3 metres (3.3–9.8 ft). The stem base turns blue or purple as it matures. Big bluestem blooms in the summer and seeds into the fall. The inflorescence (flower cluster) is a raceme of two to six, most commonly three, narrow spike-like racemes alternately arranged along the top of the stem. It somewhat resembles a wild turkey's foot."
 		},
 		{
 			"name": "baltimore oriole",
@@ -97,9 +119,134 @@
 			"type": "animal",
 			"subtype": "fish",
 			"colour": "green",
-			"size": "medium",
+			"size": "large",
 			"image": "northern_pike.jpg",
 			"article": "Pike are found in sluggish streams and shallow, weedy places in lakes and reservoirs, as well as in cold, clear, rocky waters. They are typical ambush predators; they lie in wait for prey, holding perfectly still for long periods, and then exhibit remarkable acceleration as they strike. They inhabit any water body that contains fish, but suitable places for spawning are also essential. Because of their cannibalistic nature, young pike need places where they can take shelter between plants so they are not eaten. In both cases, rich submerged vegetation is needed. Pike are seldom found in brackish water, except for the Baltic Sea area, here they can be found spending time both in the mouths of rivers and in the open brackish waters of the Baltic Sea. It is normal for pike to return to fresh water after a period in these brackish waters. They seem to prefer water with less turbidity, but that is likely related to their dependence on the presence of vegetation."
+		},
+		{
+			"name": "apple tree",
+			"id":"apple-tree",
+			"type": "plant",
+			"leaves": "deciduous",
+			"num_flowers": "10+",
+			"colour_flowers": "white",
+			"size_flowers": "small",
+			"image": "apple_tree.jpg",
+			"article": "An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian tradition."
+		},
+		{
+			"name": "clover",
+			"id":"clover",
+			"type": "plant",
+			"leaves": "deciduous",
+			"num_flowers": "10+",
+			"colour_flowers": "white",
+			"size_flowers": "small",
+			"image": "clover.jpg",
+			"article": "Clover or trefoil are common names for plants of the genus Trifolium (Latin, tres 'three' + folium 'leaf'), consisting of about 300 species of flowering plants in the legume or pea family Fabaceae. The genus has a cosmopolitan distribution with highest diversity in the temperate Northern Hemisphere, but many species also occur in South America and Africa, including at high altitudes on mountains in the tropics. They are small annual, biennial, or short-lived perennial herbaceous plants. Clover can be evergreen. The leaves are trifoliate (rarely quatrefoiled; see four-leaf clover), cinquefoil, or septfoil, with stipules adnate to the leaf-stalk, and heads or dense spikes of small red, purple, white, or yellow flowers; the small, few-seeded pods are enclosed in the calyx. Other closely related genera often called clovers include Melilotus (sweet clover) and Medicago (alfalfa or Calvary clover)."
+		},
+		{
+			"name": "walleye",
+			"id":"walleye",
+			"type": "animal",
+			"subtype": "fish",
+			"colour": "brown",
+			"size": "medium",
+			"image": "walleye.jpg",
+			"article": "The walleye (Sander vitreus, synonym Stizostedion vitreum), also called the yellow pike, is a freshwater perciform fish native to most of Canada and to the Northern United States. It is a North American close relative of the European zander, also known as the pikeperch. The walleye is sometimes called the yellow walleye to distinguish it from the blue walleye, which is a subspecies that was once found in the southern Ontario and Quebec regions, but is now presumed extinct. However, recent genetic analysis of a preserved (frozen) 'blue walleye' sample suggests that the blue and yellow walleye were simply phenotypes within the same species and do not merit separate taxonomic classification."
+		},
+		{
+			"name": "canada wild rye",
+			"id":"canada-wild-rye",
+			"type": "plant",
+			"leaves": "deciduous",
+			"num_flowers": "0",
+			"colour_flowers": "none",
+			"size_flowers": "none",
+			"image": "canada_wild_rye.jpg",
+			"article": "Elymus canadensis, commonly known as Canada wild rye or Canadian wildrye, is a species of wild rye native to much of North America. It is most abundant in the central plains and Great Plains. It grows in a number of ecosystems, including woodlands, savannas, dunes, and prairies, sometimes in areas that have been disturbed. Canada wild rye is a perennial bunchgrass reaching heights of 1 to 1.5 metres (3 ft 3 in to 4 ft 11 in). It grows from a small rhizome, forms a shallow, fine root network, and is a facultative mycotroph, receiving about 25% of its nutrients on average from symbiotic mycorrhizae. Its stems are hollow and tough at maturity and bear rough, flat leaves. The leaves can reach 15 mm (0.59 in) in width and are 20 to 30 cm (8 to 12 in) in length."
+		},
+		{
+			"name": "muskie",
+			"id":"muskie",
+			"type": "animal",
+			"subtype": "fish",
+			"colour": "green",
+			"size": "large",
+			"image": "muskie.jpg",
+			"article": "The muskellunge (Esox masquinongy), also known as muskelunge, muscallonge, milliganong, or maskinonge (and often abbreviated 'muskie' or 'musky'), is a species of large, relatively uncommon freshwater fish native to North America. It is the largest member of the pike family, Esocidae. The common name comes from the Ojibwa word maashkinoozhe, meaning 'ugly pike', by way of French masque allongé (modified from the Ojibwa word by folk etymology), 'elongated face.' The French common name is masquinongé or maskinongé."
+		},
+		{
+			"name": "poison ivy",
+			"id":"poison-ivy",
+			"type": "plant",
+			"leaves": "deciduous",
+			"num_flowers": "0",
+			"colour_flowers": "none",
+			"size_flowers": "none",
+			"image": "poison_ivy.jpg",
+			"article": "Toxicodendron radicans, commonly known as eastern poison ivy or poison ivy, is an allergenic Asian and Eastern North American flowering plant in the genus Toxicodendron. The species is well-known for causing urushiol-induced contact dermatitis, an itchy, irritating, and sometimes painful rash, in most people who touch it. The rash is caused by urushiol, a clear liquid compound in the plant's sap. The species is variable in its appearance and habit, and despite its common name, it is not a true ivy (Hedera), but rather a member of the cashew and pistachio family (Anacardiaceae). T. radicans is commonly eaten by many animals, and the seeds are consumed by birds, but poison ivy is most often thought of as an unwelcome weed. It is a different species from western poison ivy, Toxicodendron rydbergii, which has similar effects."
+		},
+		{
+			"name": "monarch butterfly",
+			"id":"monarch-butterfly",
+			"type": "animal",
+			"subtype": "insect",
+			"colour": "orange",
+			"size": "large",
+			"image": "monarch_butterfly.jpg",
+			"article": "The monarch butterfly or simply monarch (Danaus plexippus) is a milkweed butterfly (subfamily Danainae) in the family Nymphalidae. Other common names depending on region include milkweed, common tiger, wanderer, and black veined brown. It may be the most familiar North American butterfly, and is considered an iconic pollinator species. Its wings feature an easily recognizable black, orange, and white pattern, with a wingspan of 8.9–10.2 cm (​3 1⁄2–4 in) A Müllerian mimic, the viceroy butterfly, is similar in color and pattern, but is markedly smaller and has an extra black stripe across each hindwing."
+		},
+		{
+			"name": "moose",
+			"id":"moose",
+			"type": "animal",
+			"subtype": "mammal",
+			"colour": "brown",
+			"size": "large",
+			"image": "moose.jpg",
+			"article": "The moose (North America) or elk (Eurasia), Alces alces, is a member of the New World deer subfamily and is the largest and heaviest extant species in the deer family. Most adult male moose have distinctive broad, palmate ('open-hand shaped') antlers; most other members of the deer family have antlers with a dendritic ('twig-like') configuration. Moose typically inhabit boreal forests and temperate broadleaf and mixed forests of the Northern Hemisphere in temperate to subarctic climates. Hunting and other human activities have caused a reduction in the size of the moose's range over time. It has been reintroduced to some of its former habitats. Currently, most moose occur in Canada, Alaska, New England (with Maine having the most of the lower 48 states), Fennoscandia, the Baltic states, and Russia."
+		},
+		{
+			"name": "redfish",
+			"id":"redfish",
+			"type": "animal",
+			"subtype": "fish",
+			"colour": "red",
+			"size": "small",
+			"image": "redfish.jpg",
+			"article": "The deepwater redfish (Sebastes mentella), also known as the beaked redfish, ocean perch, Atlantic redfish, Norway haddock, red perch, golden redfish, or hemdurgan, may reach a size of 55–70 centimetres (22–28 in), but is usually less than 45 centimetres (18 in). It lives in comparatively high concentrations in the North Atlantic, for example in the Irminger Sea where considerable numbers are fished. It occupies depths between 300 and 1,000 metres (980 and 3,280 ft) and is often pelagic, i.e. far off the bottom. The deep-sea redfish feeds on a variety of food organisms, for example small fishes. In contrast to most fishes that spawn unfertilised eggs, the deepwater redfish has internal fertilisation and spawns free-living larvae."
+		},
+		{
+			"name": "timothy",
+			"id":"timothy",
+			"type": "plant",
+			"leaves": "deciduous",
+			"num_flowers": "0",
+			"colour_flowers": "none",
+			"size_flowers": "none",
+			"image": "timothy.jpg",
+			"article": "Timothy grass (Phleum pratense) is an abundant perennial grass native to most of Europe except for the Mediterranean region. It is also known simply as timothy, meadow cat's-tail or common cat's tail. It is a member of the genus Phleum, consisting of about 15 species of annual and perennial grasses. It is probably named after Timothy Hanson, an American farmer and agriculturalist said to have introduced it from New England to the southern states in the early 18th century. Upon his recommendation it became a major source of hay and cattle fodder to British farmers in the mid-18th century. Timothy grass can be confused with meadow foxtail (Alopecurus pratensis) or purple-stem cat's-tail (Phleum phleoides). "
+		},
+		{
+			"name": "polar bear",
+			"id":"polar-bear",
+			"type": "animal",
+			"subtype": "mammal",
+			"colour": "white",
+			"size": "large",
+			"image": "polar_bear.jpg",
+			"article": "The polar bear (Ursus maritimus) is a hypercarnivorous bear whose native range lies largely within the Arctic Circle, encompassing the Arctic Ocean, its surrounding seas and surrounding land masses. It is a large bear, approximately the same size as the omnivorous Kodiak bear (Ursus arctos middendorffi). A boar (adult male) weighs around 350–700 kg (772–1,543 lb), while a sow (adult female) is about half that size. Polar bears are the largest land carnivores currently in existence, rivaled only by the Kodiak bear. Although it is the sister species of the brown bear, it has evolved to occupy a narrower ecological niche, with many body characteristics adapted for cold temperatures, for moving across snow, ice and open water, and for hunting seals, which make up most of its diet."
+		},
+		{
+			"name": "smallmouth bass",
+			"id":"smallmouth-bass",
+			"type": "animal",
+			"subtype": "fish",
+			"colour": "green",
+			"size": "small",
+			"image": "smallmouth_bass.jpg",
+			"article": "The smallmouth bass (Micropterus dolomieu) is a species of freshwater fish in the sunfish family (Centrarchidae) of the order Perciformes. It is the type species of its genus. One of the black basses, it is a popular game fish sought by anglers throughout the temperate zones of North America, and has been spread by stocking—as well as illegal introductions—to many cool-water tributaries and lakes in Canada and more so introduced in the United States. The maximum recorded size is approximately 27 inches and 12 pounds. The smallmouth bass is native to the upper and middle Mississippi River basin, the Saint Lawrence River–Great Lakes system, and up into the Hudson Bay basin. The world record size was over 11 pounds caught in the lake Dale Hollow,in Kentucky. Its common names include smallmouth, bronzeback, brown bass, brownie, smallie, bronze bass, and bareback bass."
 		}
 
 ]
